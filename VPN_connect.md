@@ -1,5 +1,6 @@
--- 本文档是关于远程访问服务器中VPN客户端的下载和安装。 --
-##一、下载VPN客户端
+-- 本文档是关于远程访问服务器中VPN客户端的下载和安装。 --<br>
+
+## 一、下载VPN客户端
 
 点击以下链接进入VPN客户端下载网址：
 [**VPN客户端下载网址**](http://docs.hillstonenet.com/cn/Content/7_VPN/SSL_VPN.html "VPN客户端下载网址：")<br>
@@ -11,7 +12,8 @@
 [SSL VPN客户端 for Linux](http://docs.hillstonenet.com/cn/Content/7_VPN/SSL_VPN_Client_L.htm)<br>
 <p>本文以windows操作系统为例，故点击“SSL VPN客户端 for Windows”链接，进入下载与安装客户端界面。该设备端配置是使用“用户名/密码”认证方式的，所以按照以下步骤下载和安装客户端程序Hillstone Secure Connect：<br>
 1. 在浏览器的地址栏输入以下URL访问设备端：https://IP-Address:Port-Number。其中“IP-Address”和“Port-Number”分别为设备端SSL VPN实例中指定的接口的IP地址和HTTPS端口号。该设备端的“IP-Address”和“Port-Number”分别“219.144.130.194”和“4433”。输入后出现下图：
-![]("images/VPN1.png")
+   
+![](images/VPN1.png)
 
 2
 . 输入账号：**sigma<br>**
