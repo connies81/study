@@ -12,7 +12,7 @@
 
 不同操作系统的客户端下载安装方式类似，其网页上都有详细的下载安装说明。本文以windows操作系统为例，故点击“SSL VPN客户端 for Windows”链接，进入下载与安装客户端界面。因为该设备端配置是使用“用户名/密码”认证方式的，所以按照以下步骤下载和安装客户端程序Hillstone Secure Connect：<br>
 
-在浏览器的地址栏输入以下URL访问设备端：https://IP-Address:Port-Number。其中“IP-Address”和“Port-Number”分别为设备端SSL VPN实例中指定的接口的IP地址和HTTPS端口号。该设备端的“IP-Address”和“Port-Number”分别“219.144.130.194”和“4433”。输入后出现下图：
+在浏览器的地址栏输入以下URL访问设备端：https://IP-Address:Port—Number。 其中“IP-Address”和“Port-Number”分别为设备端SSL VPN实例中指定的接口的IP地址和HTTPS端口号。该设备端的“IP-Address”和“Port-Number”分别“219.144.130.194”和“4433”。即输入http://219.144.130.194:4433 。输入后出现下图：
    
 ![](images/VPN1.png)
 
