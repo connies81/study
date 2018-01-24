@@ -1,9 +1,9 @@
--- 本文档是关于远程访问服务器中VPN客户端的下载和安装。 --<br>
+H3<本文档是关于远程访问服务器中VPN客户端的下载和安装,。><br>
 
 ## 一、下载VPN客户端
 
 点击以下链接进入VPN客户端下载网址：
-[**VPN客户端下载网址**](http://docs.hillstonenet.com/cn/Content/7_VPN/SSL_VPN.html "VPN客户端下载网址：")<br>
+[**VPN客户端下载网址**](http://docs.hillstonenet.com/cn/Content/7_VPN/SSL_VPN.html)<br>
 登入网址后，选择合适自己电脑操作系统的客户端：<br>
 [SSL VPN客户端 for Windows](http://docs.hillstonenet.com/cn/Content/7_VPN/SSL_VPN_Client.htm)<br>
 [SSL VPN客户端 for Android](http://docs.hillstonenet.com/cn/Content/7_VPN/SSL_VPN_Client_A.htm)<br>
@@ -16,8 +16,8 @@
 ![](images/VPN1.png)
 
 2
-. 输入账号：**sigma<br>**
-   密码：**1012200728**
+. 输入账号：**********
+   密码：**********
 <br>登录后，点击“下载”，即可下载安装“scvpn.exe”。成功安装后，双击桌面的Hillstone Secure Connect快捷方式，在弹出的登录对话框中填写所需内容。
 
 
