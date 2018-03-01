@@ -1,9 +1,13 @@
-##sql数据库数据文件导入导出
+## sql数据库数据文件导入导出
+
 **1、还原数据库**<br>
 一般客户给我们提供的数据是数据库形式。还原数据库：
-![](images/shujuku.png)
+![](images/shujuku.png) 
+<br>
 打开SQL数据库，右键单击数据库出现上图菜单，点击还原数据库，出现下图：
 ![](images/shujuku2.png)
+
+
 选择从设备上还原数据库：
 ![](images/shujuku3.png)
 
@@ -25,7 +29,7 @@
 - [excel数据表导入SQL](https://jingyan.baidu.com/article/358570f66145a6ce4724fcba.html)<br>
 注：数据文件的字段名不能为空或“NULL”，必须唯一。
 
-##sql数据库中表的基本操作
+## sql数据库中表的基本操作
 
 **1、基于原始表构造新表，以免玩坏数据<br>**
 
